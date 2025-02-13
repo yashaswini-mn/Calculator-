@@ -39,7 +39,7 @@ class Calculator:
             
     def division(self, x, y):
         if(y==0):
-            print("Brooo..!, you can't divide by zero")
+            print("Brooo..!, you can't divide by zero, SIMPLE SI CHEEZ BROO!")
         if(x<500 and y<500):
             print("It's easy bro, can't you even do that? Let it be, I'll do it for you")
             c=x/y
